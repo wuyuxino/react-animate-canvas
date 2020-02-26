@@ -1,0 +1,26 @@
+{
+  "name": "react-animate-canvas",
+  "version": "1.0.0",
+  "description": "canvas animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyuxino/react-animate-canvas.git"
+  },
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "konva": "^4.1.3",
+    "jquery": "^3.4.1"
+  },
+  "keywords": [
+    "canvas",
+    "konva",
+    "animation",
+    "animate"
+  ],
+  "author": "wuyx",
+  "license": "ISC"
+}
