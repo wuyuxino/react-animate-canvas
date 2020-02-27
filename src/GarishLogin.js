@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Konva from 'konva';
 import $ from 'jquery'
 
-export default class GarishLogin extends Component {
+class GarishLogin extends Component {
   constructor(props) {
     super(props)
 
@@ -136,3 +136,5 @@ export default class GarishLogin extends Component {
     )
   }
 }
+
+export default GarishLogin
